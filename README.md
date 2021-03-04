@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-My name is Anmol ! Thank you for stopping by my profile.
+My name is Anmol ! 
+
+Thank you for stopping by my profile.
+
 I am a master's student in Industrial Engineering with my concentration in Supply Chain Management and Data Analytics. 
 Cuurently I attend North Carolina State University and will be graduating in Spring 2021.
 
